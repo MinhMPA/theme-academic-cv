@@ -1,7 +1,7 @@
 name: GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.126.0'
+  WC_HUGO_VERSION: '0.126.1'
 
 on:
   push:
@@ -32,6 +32,5 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           publish_dir: ./public
           publish_branch: master  # deploying branch
-          cname: academic-resume.lakemper.eu
           allow_empty_commit: true
           external_repository: minhMPA/academic-resume
