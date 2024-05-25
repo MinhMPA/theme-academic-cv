@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nguyễn Nhật Minh
+title: Minh Nguyen
 
 # Name pronunciation (optional)
-name_pronunciation: M-ing Ng-uyen
+name_pronunciation: /ˈmiːn ˈŋwɪn/
 
 # Full name (for SEO)
 first_name: Minh
 last_name: Nguyen
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Leinweber Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Department of Physics, University of Michigan
+    url: https://lsa.umich.edu/physics
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,62 +34,54 @@ profiles:
     url: 'mailto:nhat.minh.nguyen.111@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/MinhNguyenAstro
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/minhMPA
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/minhmpa/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&pli=1&user=Wfr8DzAAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-2542-7233
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Growth of Cosmic Structures
+  - Gravity & Dark Energy
+  - Simulation-based Inference
+  - Large-scale Inference
+  - Sampling & Optimization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Astronomy
+    institution: Max Planck Institute for Astrophysics Ludwig Maximilian University of Munich
+    date_start: 2016-10-01
+    date_end: 2020-06-16
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Bayesian forward modeling of galaxy clustering.\
+      Advisor: Fabian Schmidt.\
+      Magna Cum Laude.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      url: 'https://edoc.ub.uni-muenchen.de/26235/'
+  - area: MSc Astronomy and Astrophysics
+    institution: AstroMundus
+    date_start: 2014-09-01
+    date_end: 2016-07-01
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  - area: BSc Physics and Theoretical Phsyics (Hons)
+    institution: Ho Chi Minh University of Science (HCMUS)
+    date_start: 2008-09-01
+    date_end: 2013-03-01
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Leinweber Research Fellow
+    company_name: Leinweber Center for Theoretical Physics, Department of Physics, University of Michigan
+    company_url: 'https://lsa.umich.edu/lctp'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-01-01
+    date_end: '2024-08-31'
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -183,4 +175,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nhat-Minh Nguyen is a cosmologist and research fellow at the Physics Department, University of Michigan. He is moving to Kavli IPMU in fall 2024. His research focus on the Growth of Cosmic Structures, as constrained by Big Data from Galaxy surveys and Cosmic Microwave Background experiments. He develops forward-modeling techniques and field-level Bayesian inference methods to search for new physics and interactions beyond the standard model, both in the early and late universe.
